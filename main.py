@@ -30,7 +30,7 @@ class API:
             os._exit(0)
 
         def github(self):
-            webbrowser.open('https://github.com/0CapTaiN0')
+            webbrowser.open('https://github.com/0CapTaiN0/Noup')
 
 
 
